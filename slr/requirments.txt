@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+scikit-learn
+tensorflow
+argparse
+collections
+numpy
+itertools
+typing
+pyautogui
+mediapipe
+dotenv
